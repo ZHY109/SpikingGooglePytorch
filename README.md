@@ -16,7 +16,7 @@ Xuan Wang , Minghong Zhong , Hoiyuen Cheng, Junjie Xie, Yingchu Zhou, Jun Ren, M
 
 - Natively handles multiple spikes in each layer and error backpropagation through the layers.
 
-- Implant inception inside the SNNs, where does [SLYAER](https://bitbucket.org/bamsumit/slayer ) provide.
+- Implant inception inside the SNNs, where does [SLAYER](https://bitbucket.org/bamsumit/slayer ) provide.
 
 - Version 1.0
 
