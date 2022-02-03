@@ -35,7 +35,7 @@ Python 3 with the following packages installed:
 - torch==1.7.1
 - torchvision==0.8.2
 
-A **CUDA** enabled **GPU** is required for training any model. No plans on CPU only implementation yet. The software has been tested with CUDA libraries version 9.2 and GCC 7.3.0 on Ubuntu 18.04
+A **CUDA** enabled **GPU** is required for training any model. No plans on CPU only implementation yet. The software has been tested with **CUDA libraries version 9.2 and GCC 7.3.0 on Ubuntu 18.04**
 
 
 
