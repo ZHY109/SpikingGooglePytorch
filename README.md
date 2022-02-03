@@ -94,11 +94,4 @@ Any implementations can be found inside Examples folder.
 
 For queries contact [Hoiyuen Cheng](mailto:1094404954@qq.com)
 
-### License & Copyright
-
-Copyright 2022 SpikeGoogle-PyTorch is free software: you can redistribute it and/or modify it under the terms of GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
-
-SpikeGoogle-PyTorch is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License SpikeGoogle. If not, see http://www.gnu.org/licenses/.
 
