@@ -1,6 +1,6 @@
 # README #
 
-This package is a PyTorch port of the original **Spiking** Neural Networks with **GoogLe**Net-Like Inception Module(**SpikeGoogle**) framework for improved backpropagation based spiking neural networks (SNNs) learning with Inception modules. The original implementation is in C++ with CUDA and CUDNN. It is available at https://github.com/changjunyuan/slayerPytorch.
+This package is a PyTorch port of the original **Spiking** Neural Networks with **GoogLe**Net-Like Inception Module(**SpikeGoogle**) framework for improved backpropagation based spiking neural networks (SNNs) learning with Inception modules. The original implementation is in C++ with CUDA and CUDNN. It is available at https://github.com/ZHY109/SpikingGooglePytorch.
 
 
 
