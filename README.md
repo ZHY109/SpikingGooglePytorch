@@ -6,7 +6,7 @@ This package is a PyTorch port of the original **Spiking** Neural Networks with 
 
 ## Citation
 
-Xuan Wang , Minghong Zhong , Hoiyuen Cheng, Junjie Xie, Yingchu Zhou, Jun Ren, Mengyuan Liu. "SpikeGoogle: Spiking Neural Networks with GoogLeNet-Like Inception Module." official paper version will be released soon.
+Xuan Wang , Minghong Zhong , Hoiyuen Cheng, Junjie Xie, Yingchu Zhou, Jun Ren, Mengyuan Liu. "SpikeGoogle: Spiking Neural Networks with GoogLeNet-Like Inception Module." official paper version has been released.
 
 
 
